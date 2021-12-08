@@ -14,7 +14,7 @@ I was away from this fiel for some years but I'm back and eager to collaborate w
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-  <img alt="C programing" src="https://img.shields.io/badge/C-52B0E7?logo=c&logoColor=white&style=for-the-badge%22"/>
+  <img alt="C programing" src="https://img.shields.io/badge/programing-61DAFB?logo=C&logoColor=white&style=for-the-badge"/>
   
   ... I'm currently learning:
   <p>
