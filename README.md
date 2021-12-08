@@ -29,7 +29,7 @@ I was away from this fiel for some years but I'm back and eager to collaborate w
 This was my final project and portfolio at [Codaisseur](https://codaisseur.com/). I build a Web App to keep track of the medical history of your pets, the front-end was created with JavaScript, React, Redux and Chat Engine, firebase and Material UI, and for the back-end I used Express server, JWT and Bcrypt authentication, PostgreSQL database with Sequelize ORM. 
 
 #### Tinpet 
-This was out group project at [Codaisseur](https://codaisseur.com/). We coded this app in a group of 3 in less than 5 days. It's an app that works like tinder but for pets, it is an entertainment app which was the topic that we got assigned. In the front-end we used JavaScript, React, Redux,Chat Engine, firebase and Bootstrat. In the back-end we used Express server, JWT and Bcrypt authentication, PostgreSQL database with Sequelize ORM.
+This was our group project at [Codaisseur](https://codaisseur.com/). We coded this app in a group of 3 in less than 5 days. It's an app that works like tinder but for pets, it is an entertainment app which was the topic that we got assigned. In the front-end we used JavaScript, React, Redux,Chat Engine, firebase and Bootstrat. In the back-end we used Express server, JWT and Bcrypt authentication, PostgreSQL database with Sequelize ORM.
 
 ### Get In Touch:
   <p>
